@@ -9,7 +9,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript.
 - Portfolio/project showcase
 
 ## Live Site
-https://MY-USERNAME.github.io/MY-REPO-NAME/
+https://github.com/RiskGalt/Portfolio
 
 ## Technologies Used
 - HTML5
